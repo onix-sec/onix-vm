@@ -14,6 +14,8 @@ Edit `flake.nix` to choose the tools you need.
 nix run .
 ```
 
+Note: to stop the VM run `poweroff` in it.
+
 Note: the VM disk will be created in the current directory as `onix.qcow2`.
 
 VM defaults can be configured in `modules/microvm.nix` and are:
