@@ -5,7 +5,7 @@ Small VM containing a collection of cybersecurity tools.
 ## Usage
 
 ```bash
-git clone https://github.com/onix-sec/onix-vm
+git clone https://github.com/onix-sec/onix-vm.git
 ```
 
 Edit `flake.nix` to choose the tools you need.
